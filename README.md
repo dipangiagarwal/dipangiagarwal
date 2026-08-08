@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Dipangi Agarwal
 
-### Full Stack Developer Intern | AI/ML & Data Science Enthusiast
+### Full Stack Developer
 
-B.Tech Computer Science & Engineering graduate interested in building web applications, backend systems, and AI/ML solutions.
-
-Currently working as a **Full Stack Developer Intern at Kuchoriya Techsoft**, with previous internship experience at **Pixel Genix**.
+Passionate about building modern, scalable web applications and solving real-world problems through clean and efficient code.
 
 ---
 
