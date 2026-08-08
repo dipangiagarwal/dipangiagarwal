@@ -115,10 +115,8 @@ JECRC University, Jaipur (2022-2026)
 
 ## 🤝 Let's Connect
 
-<p align="left">
-  <a href="www.linkedin.com/in/dipangi-agarwal-42222524b">LinkedIn</a> •
-  <a href="mailto:dipangiagarwal04@gmail.com">Email</a>
-</p>
+LinkedIn: www.linkedin.com/in/dipangi-agarwal-42222524b
+Email: dipangiagarwal04@gmail.com
 
 ---
 
