@@ -1,16 +1,125 @@
-## Hi there 👋
+# 👋 Hi, I'm Dipangi Agarwal
 
-<!--
-**dipangiagarwal/dipangiagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer Intern | AI/ML & Data Science Enthusiast
 
-Here are some ideas to get you started:
+B.Tech Computer Science & Engineering graduate interested in building web applications, backend systems, and AI/ML solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working as a **Full Stack Developer Intern at Kuchoriya Techsoft**, with previous internship experience at **Pixel Genix**.
+
+---
+
+## 💼 Experience
+
+### 🚀 Full Stack Developer Intern — Kuchoriya Techsoft
+
+**Currently Working**
+
+* Working on full-stack web application development
+* Developing frontend interfaces and backend functionality
+* Working with APIs, databases, and application architecture
+* Building and improving real-world projects as part of the development team
+* Gaining hands-on experience with modern web technologies and development practices
+* Learning MERN Stack Development
+
+### 💻 Full Stack Developer Intern — Pixel Genix
+
+**Previous Internship**
+
+* Worked on full-stack web development projects
+* Developed and integrated frontend and backend features
+* Worked with APIs, databases, and application functionality
+* Contributed to real-world projects and development workflows
+
+---
+
+## 🚀 Projects
+
+### 🤖 AI Attendance System
+
+An AI-powered attendance management system designed to automate student attendance using face recognition.
+
+**Tech:** Python · FastAPI · PostgreSQL · SQLAlchemy · JWT
+
+**Highlights:**
+
+* Face recognition-based attendance
+* Student and admin management
+* JWT authentication
+* Attendance tracking and database management
+* REST APIs using FastAPI
+
+---
+
+### 💼 Pixel CRM
+
+A CRM application designed to manage customer information, business workflows, and organizational data.
+
+**Tech:** Python · REST APIs · Database
+
+**Highlights:**
+
+* Customer management
+* CRM workflows
+* Backend API integration
+* Database management
+* Full-stack application architecture
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+
+`Python` `JavaScript` `SQL`
+
+### Frontend
+
+`HTML` `CSS` `JavaScript` `React`
+
+### Backend
+
+`Python` `FastAPI` `JavaScript`
+
+### Databases
+
+`MongoDB` `PostgreSQL` `MySQL`
+
+### AI / ML & Data Science
+
+`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Matplotlib`
+
+### Tools & Technologies
+
+`Git` `GitHub` `Docker` `REST APIs`
+
+---
+
+## 📚 Currently Learning
+
+* MERN Stack
+* Advanced JavaScript
+* React
+* Backend Development
+* REST APIs
+* Data Structures & Algorithms
+* AI/ML & Data Science
+
+---
+
+## 🎓 Education
+
+**B.Tech — Computer Science & Engineering**
+JECRC University, Jaipur (2022-2026)
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="www.linkedin.com/in/dipangi-agarwal-42222524b">LinkedIn</a> •
+  <a href="mailto:dipangiagarwal04@gmail.com">Email</a>
+</p>
+
+---
+
+### 💡 Always learning. Always building. 🚀
