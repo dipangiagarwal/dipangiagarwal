@@ -8,20 +8,10 @@ Passionate about building modern, scalable web applications and solving real-wor
 
 ## 💼 Experience
 
-### 🚀 Full Stack Developer Intern — Kuchoriya Techsoft
-
-**Currently Working**
-
-* Working on full-stack web application development
-* Developing frontend interfaces and backend functionality
-* Working with APIs, databases, and application architecture
-* Building and improving real-world projects as part of the development team
-* Gaining hands-on experience with modern web technologies and development practices
-* Learning MERN Stack Development
 
 ### 💻 Full Stack Developer Intern — Pixel Genix
 
-**Previous Internship**
+**Internship**
 
 * Worked on full-stack web development projects
 * Developed and integrated frontend and backend features
